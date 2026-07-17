@@ -1,5 +1,15 @@
-## Hi there 👋
+# Hi, I'm Adrian 👋
+ 
+Electrical Engineering student at the **University of Texas at San Antonio** with a focus on **embedded systems** and **power electronics**.
 
+- 🎓 Graduating May 2028
+- ⚡ Interested in power electronics and power systems
+- 🔬 Undergraduate research assistant in a power systems lab, working on intelligent control strategies for residential energy systems (HVAC and water heater load optimization)
+
+### What I work with
+**Languages:** C, Python,
+
+**Tools:** Autodesk Fusion, KiCad, Linux,
 <!--
 **afcaff/afcaff** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
