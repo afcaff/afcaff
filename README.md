@@ -9,7 +9,7 @@ Electrical Engineering student at the **University of Texas at San Antonio** wit
 ### What I work with
 **Languages:** C, Python,
 
-**Tools:** Autodesk Fusion, KiCad, Linux,
+**Tools:** Fusion, KiCad, Linux,
 <!--
 **afcaff/afcaff** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
