@@ -3,13 +3,13 @@
 Electrical Engineering student at the **University of Texas at San Antonio** with a focus on **embedded systems** and **power electronics**.
 
 - 🎓 Graduating May 2028
-- ⚡ Interested in power electronics and power systems
+- ⚡ Interested in power electronics, power systems, and DSP.
 - 🔬 Undergraduate research assistant in a power systems lab, working on intelligent control strategies for residential energy systems (HVAC and water heater load optimization)
 
 ### What I work with
-**Languages:** C, Python,
+**Languages:** C/C++, Python,
 
-**Tools:** Fusion, KiCad, Linux,
+**Tools:** Fusion, KiCad, Linux, Pspice,
 <!--
 **afcaff/afcaff** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
