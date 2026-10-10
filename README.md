@@ -3,7 +3,7 @@
 Electrical Engineering student at the **University of Texas at San Antonio** with a focus on **embedded systems** and **power electronics**.
 
 - 🎓 Graduating May 2028
-- ⚡ Interested in power electronics, power systems, and DSP.
+- ⚡ Interested in power electronics, analog circuits, semiconductor devices, and DSP.
 - 🔬 Undergraduate research assistant in a power systems lab, working on intelligent control strategies for residential energy systems (HVAC and water heater load optimization)
 
 ### What I work with
