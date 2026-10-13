@@ -4,7 +4,7 @@ Electrical Engineering student at the **University of Texas at San Antonio** wit
 
 - 🎓 Graduating May 2028
 - ⚡ Interested in power electronics, analog circuits, semiconductor devices, and DSP.
-- 🔬 Undergraduate research assistant in a power systems lab, working on intelligent control strategies for residential energy systems (HVAC and water heater load optimization)
+- 🔬 Undergraduate research assistant in a power systems lab (Jan 2026 - Aug 2026), working on intelligent control strategies for residential energy systems (HVAC and water heater load optimization)
 
 ### What I work with
 **Languages:** C/C++, Python,
